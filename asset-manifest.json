@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/filingi/static/css/main.18852031.css",
+    "main.js": "/filingi/static/js/main.114451d5.js",
+    "index.html": "/filingi/index.html",
+    "main.18852031.css.map": "/filingi/static/css/main.18852031.css.map",
+    "main.114451d5.js.map": "/filingi/static/js/main.114451d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18852031.css",
+    "static/js/main.114451d5.js"
+  ]
+}
