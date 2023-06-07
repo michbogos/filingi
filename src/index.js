@@ -10,7 +10,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom";
 
@@ -43,7 +43,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <App db={db}></App>,
