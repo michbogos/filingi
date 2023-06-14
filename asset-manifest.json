@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/filingi/static/css/main.cd60ad14.css",
-    "main.js": "/filingi/static/js/main.3f3f8c4d.js",
+    "main.js": "/filingi/static/js/main.81125d5b.js",
     "index.html": "/filingi/index.html",
     "main.cd60ad14.css.map": "/filingi/static/css/main.cd60ad14.css.map",
-    "main.3f3f8c4d.js.map": "/filingi/static/js/main.3f3f8c4d.js.map"
+    "main.81125d5b.js.map": "/filingi/static/js/main.81125d5b.js.map"
   },
   "entrypoints": [
     "static/css/main.cd60ad14.css",
-    "static/js/main.3f3f8c4d.js"
+    "static/js/main.81125d5b.js"
   ]
 }
