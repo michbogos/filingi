@@ -7,6 +7,6 @@ body{
 .content{
   display: flex;
   flex-direction: column;
-  padding-left:40vw;
-  padding-right:40vw;
+  padding-left:10em;
+  padding-right:10em;
 }
